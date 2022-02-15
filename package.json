@@ -1,0 +1,15 @@
+{
+  "name": "2atlas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "lsc -cdko bin src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livescript": "^1.6.0"
+  }
+}
