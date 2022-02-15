@@ -5,7 +5,8 @@
   "main": "bin/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "lsc -cdko bin src"
+    "build": "lsc -cdko bin src",
+    "watch": "lsc -w src"
   },
   "author": "",
   "license": "ISC",
